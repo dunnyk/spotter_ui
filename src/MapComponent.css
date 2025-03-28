@@ -1,0 +1,16 @@
+/* MapComponent.css */
+.leaflet-container {
+    height: 600px;
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  }
+  
+  .trip-summary {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
